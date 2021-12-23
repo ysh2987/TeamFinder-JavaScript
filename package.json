@@ -1,0 +1,36 @@
+{
+  "name": "TeamFinder",
+  "version": "1.0.0",
+  "description": "TeamFinder",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZB-Online/TeamFinder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZB-Online/TeamFinder/issues"
+  },
+  "homepage": "https://github.com/ZB-Online/TeamFinder#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
