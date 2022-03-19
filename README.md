@@ -10,28 +10,6 @@
 
 <img src="./readmeImg/detail.jpg">
 
-## 수정할 사항
-
-- writing Page
-  - 기능 구현에 초점이 맞춰져 있어 코드 개선 필요!
-  - 이벤트 처리 부분과 서버 통신 코드 각 파일로 분리
-- setting Page
-
-  - 코드 리펙토링!!
-  - 시간이 부족해 이미지 등록 / 수정 기능 추가
-  - 회원 탈퇴시 users 데이터는 삭제되지만 posts 데이터 삭제 안되는 버그 수정 필요
-
-- 공부가 필요한 부분
-  - SPA 구축
-  - component화
-  - Routing
-  - 목 서버 구현 express
-  - 상태관리
-
-## Memo
-
-- 첫 팀 프로젝트
-- 웹 페이지가아닌 웹 어플리케이션
 
 ## Git Commit Message Convention
 
