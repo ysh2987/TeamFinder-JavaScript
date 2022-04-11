@@ -4,13 +4,6 @@
 - 전국 스포츠 팀 모집 서비스
 - 기간 : 2021/12/13 ~ 2021/12/23
 
-<img src="./readmeImg/main.jpg">
-
-<img src="./readmeImg/writing.jpg">
-
-<img src="./readmeImg/setting.jpg">
-
-<img src="./readmeImg/detail.jpg">
 
 ## 실행 방법
 ```
@@ -26,3 +19,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
+
+<img src="./readmeImg/main.jpg">
+
+<img src="./readmeImg/writing.jpg">
+
+<img src="./readmeImg/setting.jpg">
+
+<img src="./readmeImg/detail.jpg">
