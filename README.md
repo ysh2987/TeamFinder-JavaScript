@@ -17,6 +17,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-DB7093?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 메인 페이지 
+<img src="./readmeImg/main.jpg">
+
+## 상세 페이지
+<img src="./readmeImg/detail.jpg">
+
+## 글 작성 페이지
+<img src="./readmeImg/writing.jpg">
+
+## 설정 페이지
+<img src="./readmeImg/setting.jpg">
+
+
 ## Trouble Shooting
 
   - 중복 이벤트 처리 - 글 작성 페이지 개발 중 사용자가 지역 / 스포츠 팀원을 선택하거나 선택한 목록들을 제거하는 비슷한 이벤트 처리 로직들을 처리할 때 이벤트를 중복적으로 선택하기보다는 e.target 으로 이벤트 위임을 통해 이벤트를 제어하였습니다. 하지만 e.target.parentNode.parentNode 처럼 해당 노드가 무엇을 가리키는지 코드만 보고는 짐작할 수 없게 되었습니다. 그래서 각각 요소의 이벤트를 직접 달아 줘야 할지 고민을 하였지만, 코드가 중복되고, 이벤트 호출을 과도하게 하는 부분 또한 성능적으로 부적절하다고 판단하였습니다. 해결 방법을 탐색하다 closest 메소드를 알게 되어 부모요소를 명시적으로 작성할 수 있게 되어 해결하였습니다.
@@ -31,15 +44,4 @@
 이런 중복 함수들은 Utill 폴더로 전역에서 사용할 수 있도록 관리하는 게 프로젝트 기간을 효율적으로 줄일 수 있다는 것을 알게 되었고, 팀원들의 코드를 자세히 들여다보는 계기가 되었습니다
 
 
-## 메인 페이지 
-<img src="./readmeImg/main.jpg">
-
-## 상세 페이지
-<img src="./readmeImg/detail.jpg">
-
-## 글 작성 페이지
-<img src="./readmeImg/writing.jpg">
-
-## 설정 페이지
-<img src="./readmeImg/setting.jpg">
 
