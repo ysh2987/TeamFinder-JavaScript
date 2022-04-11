@@ -18,11 +18,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-
+## 메인 페이지 
 <img src="./readmeImg/main.jpg">
 
+## 상세 페이지
+<img src="./readmeImg/detail.jpg">
+
+## 글 작성 페이지
 <img src="./readmeImg/writing.jpg">
 
+## 설정 페이지
 <img src="./readmeImg/setting.jpg">
 
-<img src="./readmeImg/detail.jpg">
